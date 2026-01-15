@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+.pytest_cache/
+.coverage
+
+# Virtual environments
+venv/
+.venv
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+.DS_Store
+
+# Project-specific: Data Grinder (not part of core RAG)
+Data_Grinder/
+run_grinder.bat
+
+# Local RAG Agent - ignore data, keep code
+Local_RAG_Agent/chroma_db/
+Local_RAG_Agent/docs/
+Local_RAG_Agent/*.log
+
+# OS
+*.DS_Store
+Thumbs.db

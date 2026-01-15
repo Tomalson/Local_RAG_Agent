@@ -1,0 +1,20 @@
+# Local RAG Agent - Requirements
+
+# Core Dependencies
+langchain==0.1.0
+langchain-community==0.0.13
+
+# LLM & Embeddings
+ollama==0.1.6
+
+# Vector Store
+chromadb==0.4.22
+
+# Document Processing
+pypdf==3.17.4
+pdfplumber==0.11.0
+langchain-text-splitters==0.0.1
+
+# Utilities
+python-dotenv==1.0.0
+colorama==0.4.6
