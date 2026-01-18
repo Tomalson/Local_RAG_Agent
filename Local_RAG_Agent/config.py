@@ -31,7 +31,7 @@ CHUNK_SIZE: Final[int] = 700
 CHUNK_OVERLAP: Final[int] = 200
 
 # ==================== PARAMETRY RETRIEVERA ====================
-RETRIEVER_K: Final[int] = 8  # Optimal: max tested 20, using 8 for balance
+RETRIEVER_K: Final[int] = 8  # Optimal: max tested 20
 RETRIEVER_SEARCH_TYPE: Final[str] = "mmr"  # Maximum Marginal Relevance - więcej diversity
 RETRIEVER_FETCH_K: Final[int] = 16  # Zwiększone dla lepszego MMR diversity
 
