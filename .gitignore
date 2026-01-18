@@ -55,3 +55,8 @@ test_*.py
 # OS
 *.DS_Store
 Thumbs.db
+
+# other
+*.pdf
+*.sqlite3
+*.bin
