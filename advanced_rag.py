@@ -1,6 +1,6 @@
 """
 Advanced RAG System z Query Decomposition, Hybrid Search, i Context Awareness.
-"""
+Professional Local RAG Agent - Initial Release"""
 
 import sys
 import json

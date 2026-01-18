@@ -3,7 +3,7 @@ Serwis RAG (Retrieval-Augmented Generation).
 
 Zawiera klasę RAGAgent odpowiedzialną za pobieranie kontekstu
 i generowanie odpowiedzi przy użyciu lokalnego LLM.
-"""
+Professional Local RAG Agent - Initial Release"""
 
 import sys
 from typing import Optional, Dict, Any

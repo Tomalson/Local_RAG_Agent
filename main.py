@@ -2,7 +2,7 @@
 Interfejs CLI dla systemu Advanced Local RAG.
 
 Prosty interfejs wiersza poleceń z Query Decomposition, Hybrid Search i Context Expansion.
-"""
+Professional Local RAG Agent - Initial Release"""
 
 import sys
 from pathlib import Path

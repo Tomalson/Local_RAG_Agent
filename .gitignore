@@ -48,6 +48,10 @@ Local_RAG_Agent/chroma_db/
 Local_RAG_Agent/docs/
 Local_RAG_Agent/*.log
 
+# Test files
+test_*.py
+*.test.py
+
 # OS
 *.DS_Store
 Thumbs.db

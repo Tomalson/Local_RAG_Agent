@@ -2,7 +2,7 @@
 Konfiguracja projektu Local RAG Agent.
 
 Agent AI do Retrieval-Augmented Generation z dokumentów.
-"""
+Professional Local RAG Agent - Initial Release"""
 
 from pathlib import Path
 from typing import Final

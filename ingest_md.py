@@ -1,6 +1,6 @@
 """
 Skrypt do szybkiego załadowania plików Markdown do ChromaDB.
-"""
+Professional Local RAG Agent - Initial Release"""
 
 import sys
 from pathlib import Path

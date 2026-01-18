@@ -3,7 +3,7 @@ Skrypt do ingestii dokumentów PDF do bazy wektorowej ChromaDB.
 
 Wczytuje pliki PDF z folderu /docs, dzieli je na fragmenty
 i zapisuje embeddingi w /chroma_db.
-"""
+Professional Local RAG Agent - Initial Release"""
 
 import sys
 from pathlib import Path
